@@ -1,0 +1,4 @@
+[wokwi]
+version=1
+firmware="build/Potentiometer.ino.hex"
+elf="build/Potentiometer.ino.elf"

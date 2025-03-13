@@ -1,0 +1,4 @@
+[wokwi]
+version=1
+firmware="build/ButtonMastery.ino.hex"
+elf="build/ButtonMastery.ino.elf"

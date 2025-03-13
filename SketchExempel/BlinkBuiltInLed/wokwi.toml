@@ -1,0 +1,4 @@
+[wokwi]
+version=1
+firmware="build/BlinkBuiltInLed.ino.hex"
+elf="build/BlinkBuiltInLed.ino.elf"
